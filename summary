@@ -1,0 +1,8 @@
+We look at eigenvalues first, find the biggest one, and take a look at the correspond eigenvector
+Find the largest extremevalue in the eigenvector and the corrspond company 
+the company is the most influtiencial one
+Then take a look at the sign
+If the eigenvalues have the same sign
+The company stock price increase/ decrease together
+If they have different sign like[1,-1,-2,-3]
+means when first company increase, other three decrease
